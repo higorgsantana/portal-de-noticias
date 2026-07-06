@@ -15,7 +15,7 @@ Layout de um portal de notícias desenvolvido durante o curso Full Stack da Rock
 
 ## 💡 Sobre
 
-Projeto criado para praticar estruturação semântica de páginas e estilização com CSS puro, como parte dos estudos da trilha Full Stack da Rocketseat. O objetivo foi construir o layout de um portal de notícias replicando um design de referência, trabalhando organização de código, responsividade e boas práticas de marcação HTML.
+Projeto criado para praticar estruturação semântica de páginas e estilização com CSS puro, como parte dos estudos da trilha Full Stack da Rocketseat. O layout foi construído majoritariamente com **CSS Grid**, trabalhando organização de seções, alinhamento de conteúdo e responsividade.
 
 ## ⚙️ Como rodar
 
