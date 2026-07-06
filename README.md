@@ -21,8 +21,8 @@ Projeto criado para praticar estruturação semântica de páginas e estilizaç�
 
 Clone o repositório e abra o arquivo `index.html` diretamente no navegador:
 
-\`\`\`bash
+```bash
 git clone https://github.com/higorgsantana/portal-de-noticias.git
-\`\`\`
+```
 
 Ou acesse a versão publicada direto pela demo acima.
